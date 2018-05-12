@@ -1,0 +1,40 @@
+_repo: History-of-Ancient-Art_42082
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Clarke, Joseph Thacher
+    alias: Clarke, J. T. (Joseph Thacher)
+    deathdate: 1920
+    gutenberg_agent_id: '41513'
+    url: http://www.gutenberg.org/2009/agents/41513
+covers:
+- cover_type: archival
+  image_path: 42082-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Reber, Franz von
+    aliases:
+    - Von Reber, Franz
+    - Reber, Franz
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '41512'
+    url: http://www.gutenberg.org/2009/agents/41512
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Franz_Reber
+    - http://en.wikipedia.org/wiki/Franz_von_Reber
+description: ''
+gutenberg_issued: '2013-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42082'
+  lccn: '04011654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art, Ancient'
+- !lcc 'N'
+title: History of Ancient Art
+url: http://www.gutenberg.org/ebooks/42082
